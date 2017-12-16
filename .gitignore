@@ -1,0 +1,14 @@
+
+*.tlog
+.vs/ConsoleApplication2/v15/.suo
+*.log
+*.obj
+*.pch
+*.idb
+*.pdb
+*.ilk
+x64/Debug/dtccm2.dll
+x64/Debug/ConsoleApplication2.exe
+.vs/ConsoleApplication2/v15/Browse.VC.db
+.vs/ConsoleApplication2/v15/.suo
+.vs/ConsoleApplication2/v15/Browse.VC.opendb
